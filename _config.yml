@@ -19,16 +19,16 @@ avatar: https://avatars0.githubusercontent.com/u/6638426?v=3&u=8e6eba04448039f61
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook: https://www.facebook.com/P.V.SAKARIYA
+  email: pankaj10it45@gmail.com
+  facebook: P.V.SAKARIYA
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
+  github: Pankaj-Sakariya
+  instagram: pankajsakariya
+  linkedin: pankaj-sakariya
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  twitter: SakariyaPankaj
+  stackoverflow: users/3500623/pankaj-sakariya # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
